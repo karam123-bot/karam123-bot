@@ -1,4 +1,4 @@
-![logo](Purple Abstract Graphic Design LinkedIn Article Cover Image.png)
+![logo]('urple Abstract Graphic Design LinkedIn Article Cover Image.png')
 <h1 align="center">Hi 👋, I'm Karam Mohammad</h1>
 <h3 align="center">Hey there! I'm software developer.</h3>
 
