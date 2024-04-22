@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **karammohd00@gmail.com**
 
-- 📄 Know about my experiences [I have 4 Years Experience](I have 4 Years Experience)
+- 📄 Know about my experiences (Having four years of experience)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
